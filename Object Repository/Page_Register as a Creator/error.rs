@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error</name>
+   <tag></tag>
+   <elementGuidId>fb9f710d-e56e-4057-b89f-66b188667a7e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error_message</value>
+      <webElementGuid>62f53738-3c99-472d-9145-b985716e2dc8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

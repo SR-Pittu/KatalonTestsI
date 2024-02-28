@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Registration successful n Please proceed to the login page</name>
+   <tag></tag>
+   <elementGuidId>cf03ef31-cd7d-4084-9af4-3e6bca3afcb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#success_message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='success_message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>275a4632-d852-43a3-b3ff-7660b21fdfc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>success_message</value>
+      <webElementGuid>e8f5f4b8-f729-4523-a7f2-6ff62c325d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success_message</value>
+      <webElementGuid>baf1ff3c-af59-467c-954a-71eacc4de212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Registration successful! /n Please proceed to the login page
+      </value>
+      <webElementGuid>91133b56-8309-4e86-bf6d-f9386e995601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;success_message&quot;)</value>
+      <webElementGuid>dbd007e4-5f84-4d5f-a522-5e6f6247a833</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='success_message']</value>
+      <webElementGuid>f5c6d54d-c710-400d-993d-da9e78f262be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registration-form']/div[3]</value>
+      <webElementGuid>10af1b19-4c5a-4323-87b4-9c0f2399b158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::div[2]</value>
+      <webElementGuid>775c46b6-28d1-4fa3-946d-5975730b7b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Password'])[1]/following::div[2]</value>
+      <webElementGuid>db2116be-f16a-42a4-a6b0-26cad4bb009e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>4ad0fbd9-7e48-4ca9-81bc-165f6ff66b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'success_message' and (text() = '
+        Registration successful! /n Please proceed to the login page
+      ' or . = '
+        Registration successful! /n Please proceed to the login page
+      ')]</value>
+      <webElementGuid>cfacc16a-93b1-4550-8b32-a96685a0ec68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
