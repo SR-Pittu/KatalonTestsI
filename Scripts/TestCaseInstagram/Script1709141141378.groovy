@@ -28,4 +28,4 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Instagram/i
 
 WebUI.click(findTestObject('Object Repository/Page_Login  Instagram/div_Log in'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Instagram/div_We can save your login info on this browser so you dont need to enter it again'),'We can save your login info on this browser so you don\'t need to enter it again.')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Instagram/loginInfo'),'We can save your login info on this browser so you don\'t need to enter it again.')
