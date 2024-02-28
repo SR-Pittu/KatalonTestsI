@@ -7,17 +7,17 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>//*[@id = 'error_message']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>error_message</value>
-      <webElementGuid>62f53738-3c99-472d-9145-b985716e2dc8</webElementGuid>
+      <webElementGuid>ffa28b01-496e-4fc1-9381-f700bfc44099</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
