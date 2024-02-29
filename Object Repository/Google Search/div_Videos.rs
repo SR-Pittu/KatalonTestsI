@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Videos</name>
+   <tag></tag>
+   <elementGuidId>fb8b1a41-6db8-430d-8632-98fcc1c8da22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bqHHPb']/div/div/div/div/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a.LatpMc.nPDzT.T3FoJb > div.GKS7s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1d536ad-69d4-4754-a638-cc1fb350d489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>bVqjv</value>
+      <webElementGuid>9338cee6-a76d-4050-af8a-c3d74e597b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>GKS7s</value>
+      <webElementGuid>e54a7202-bd26-4d33-b3d5-f7b6d0718383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Videos</value>
+      <webElementGuid>af4bc383-050c-473d-98b5-ea3335913193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bqHHPb&quot;)/div[@class=&quot;fMHynf Jb8vdb&quot;]/div[@class=&quot;X8DMoe&quot;]/div[@class=&quot;zp6Lyf&quot;]/div[@class=&quot;IUOThf&quot;]/div[3]/a[@class=&quot;LatpMc nPDzT T3FoJb&quot;]/div[@class=&quot;GKS7s&quot;]</value>
+      <webElementGuid>a804df85-3e7f-42c2-bd77-28ddf27b5f2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bqHHPb']/div/div/div/div/div[3]/a/div</value>
+      <webElementGuid>045a71f6-127b-4ef9-90d1-09b7e6493d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/following::div[2]</value>
+      <webElementGuid>b6914c10-d6ee-45ad-827d-f62a92dcd879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Images'])[1]/following::div[4]</value>
+      <webElementGuid>6a098572-b36a-4200-989f-7c6245e2fc6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perspectives'])[1]/preceding::div[1]</value>
+      <webElementGuid>3e430937-8bdb-459e-8e27-b64542aeeab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div</value>
+      <webElementGuid>de8b1ecc-02b6-4c10-9391-f32f895d9627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Videos' or . = 'Videos')]</value>
+      <webElementGuid>3c9d26d7-5eea-478e-a6a1-fe865d71f778</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

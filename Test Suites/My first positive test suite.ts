@@ -15,14 +15,14 @@
       <guid>c55571be-5cad-4cb3-8722-cb4a0a0a4d25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase1_RecordMode</testCaseId>
+      <testCaseId>Test Cases/CuraTC/TestCase1_RecordMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>0353b9b4-9ecf-4a8f-a156-3df4a52e94f5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCaseInstagram</testCaseId>
+      <testCaseId>Test Cases/InstaTC/TestCaseInstagram</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

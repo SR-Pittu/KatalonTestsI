@@ -19,12 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1')
+WebUI.navigateToUrl('https://www.google.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login  Instagram/input_Phone number, username, or email_username'), 
-    'sambasivammapittu')
+WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_Sign in_q'),'aaron bushnell air force')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login  Instagram/input_Password_password'), 'OnVCqlxGhvLtKCetV0QNXw==')
-
-WebUI.click(findTestObject('Object Repository/Page_Login  Instagram/div_Log in'))
-
+WebUI.click(findTestObject('Object Repository/Page_Google/input_Report inappropriate predictions_btnK'))

@@ -15,14 +15,14 @@
       <guid>96bc7f8f-4707-4126-a925-83027357acdd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/InstaFailureCase</testCaseId>
+      <testCaseId>Test Cases/InstaTC/InstaFailureCase</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>807bb716-f82c-4aa0-b19d-aa3f2d5a39dd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCaseCura</testCaseId>
+      <testCaseId>Test Cases/CuraTC/TestCaseCura</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

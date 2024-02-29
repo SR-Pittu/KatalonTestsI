@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Maps</name>
+   <tag></tag>
+   <elementGuidId>da09cf62-866a-4efd-bad0-0361d94e065b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='L6jfZfe4Bq_BkPIPgfumsAI__10']/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#L6jfZfe4Bq_BkPIPgfumsAI__10 > div > a.LatpMc.nPDzT.T3FoJb > div.GKS7s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01ae491f-5f3e-46d1-b84f-5796a17dbd22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>bVqjv</value>
+      <webElementGuid>0392a01e-3b77-45c4-90cc-8cf96d16e617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>GKS7s</value>
+      <webElementGuid>2946f322-59b8-4075-914d-95a88235333f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Maps</value>
+      <webElementGuid>7b050bf5-341c-403e-b176-99cbcac0cb77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;L6jfZfe4Bq_BkPIPgfumsAI__10&quot;)/div[1]/a[@class=&quot;LatpMc nPDzT T3FoJb&quot;]/div[@class=&quot;GKS7s&quot;]</value>
+      <webElementGuid>968fc5aa-f744-4756-8fd1-e9543466a012</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='L6jfZfe4Bq_BkPIPgfumsAI__10']/div/a/div</value>
+      <webElementGuid>f46d9a56-4ea7-4c67-b7fe-27bd7cdf4be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footage'])[1]/following::div[3]</value>
+      <webElementGuid>b593d742-01e9-459c-be89-a9998098fb93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rank'])[1]/following::div[6]</value>
+      <webElementGuid>eeef9db8-246b-4e26-aa33-8c7abc1c7613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Books'])[1]/preceding::div[1]</value>
+      <webElementGuid>069182c5-7270-495c-a7fe-7bf6949cb4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/a/div</value>
+      <webElementGuid>4edd2d46-6ace-4d34-988b-2a7b2d97bac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Maps' or . = 'Maps')]</value>
+      <webElementGuid>87ed361f-e878-4a0c-a0a4-cd779e2c0bad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

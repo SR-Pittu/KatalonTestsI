@@ -15,14 +15,14 @@
       <guid>c55571be-5cad-4cb3-8722-cb4a0a0a4d25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCase1_RecordMode</testCaseId>
+      <testCaseId>Test Cases/CuraTC/TestCase1_RecordMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>a9457903-b807-4e67-ab33-f6d371f04f06</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCaseCura</testCaseId>
+      <testCaseId>Test Cases/CuraTC/TestCaseCura</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

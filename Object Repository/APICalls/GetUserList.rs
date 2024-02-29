@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>GetUserId</name>
+   <name>GetUserList</name>
    <tag></tag>
-   <elementGuidId>6c62f7fc-f14c-4c5b-847c-9d478693bea0</elementGuidId>
+   <elementGuidId>c001e08f-fbe8-4856-94c4-87bc7db88bd8</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
@@ -16,7 +16,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://reqres.in/api/users/2</restUrl>
+   <restUrl>https://reqres.in/api/users?page=2</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -25,18 +25,5 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
-   <verificationScript>import static org.assertj.core.api.Assertions.*
-
-import com.kms.katalon.core.testobject.RequestObject
-import com.kms.katalon.core.testobject.ResponseObject
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webservice.verification.WSResponseManager
-
-import groovy.json.JsonSlurper
-import internal.GlobalVariable as GlobalVariable
-
-RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
-
-ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
