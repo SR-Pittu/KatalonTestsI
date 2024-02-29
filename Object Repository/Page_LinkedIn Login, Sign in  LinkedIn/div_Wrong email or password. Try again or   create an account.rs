@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Wrong email or password. Try again or   create an account</name>
+   <tag></tag>
+   <elementGuidId>d690197f-114e-49c6-bb45-65d46accc39a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='error-for-password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#error-for-password</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e494890-d9a6-46c0-91a0-0ad2017bd4bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>error-for</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>f40136f9-9c87-494b-ac3a-7f75902106c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error-for-password</value>
+      <webElementGuid>a98358f7-df26-46c7-872b-ebaf367791fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__label--error  </value>
+      <webElementGuid>48470600-66bf-487a-85fe-a12a73e3c63b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>da80be76-fe4f-40e4-bada-269fe3ca225b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>1161a8fa-f661-4e93-af3e-2ffc391623ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wrong email or password. Try again or
+   create an account .
+</value>
+      <webElementGuid>8267b254-73bf-45fb-8ac0-996f81b8010e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;error-for-password&quot;)</value>
+      <webElementGuid>fb049722-73aa-43ee-a2d5-ef314b2020ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='error-for-password']</value>
+      <webElementGuid>c553b0d1-02b0-421c-80b7-2c22df982572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='organic-div']/form/div[2]/div</value>
+      <webElementGuid>6a0682a7-b23f-4fe4-9170-7bd82b5b4658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='show'])[1]/following::div[1]</value>
+      <webElementGuid>5ce10757-0530-48f1-8657-b073bb546a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::div[4]</value>
+      <webElementGuid>f35b0751-ef83-4bce-85ef-ca072319be40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::div[1]</value>
+      <webElementGuid>4ec0e8db-610f-4d40-80ee-c8b3faf73ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wrong email or password. Try again or']/parent::*</value>
+      <webElementGuid>b68d485a-320c-45b8-bd1c-3ef32f20d1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>255e23c9-88d7-4a61-b527-4f9cec9fbc88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'error-for-password' and (text() = 'Wrong email or password. Try again or
+   create an account .
+' or . = 'Wrong email or password. Try again or
+   create an account .
+')]</value>
+      <webElementGuid>f7711e41-be05-4343-8273-f3944c1b711b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

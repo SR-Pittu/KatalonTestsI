@@ -6,31 +6,35 @@
    <elementGuidId>cf1b4244-6025-484d-a88d-982f40d9363c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='loginForm']/span/div</value>
+         <key>BASIC</key>
+         <value>id(&quot;loginForm&quot;)/span[@class=&quot;x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1i0vuye xvs91rp xo1l8bm x5n08af x1tu3fi x3x7a5m x10wh9bi x1wdrske x8viiok x18hxmgj&quot;]/div[@class=&quot;_ab2z&quot;][count(. | //div[@class = '_ab2z' and (text() = 'Sorry, your password was incorrect. Please double-check your password.' or . = 'Sorry, your password was incorrect. Please double-check your password.')]) = count(//div[@class = '_ab2z' and (text() = 'Sorry, your password was incorrect. Please double-check your password.' or . = 'Sorry, your password was incorrect. Please double-check your password.')])]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div._ab2z</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='loginForm']/span/div</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b0b03439-6514-4942-84f9-c154a31e0e73</webElementGuid>
+      <webElementGuid>b3b2d085-18a9-409f-9c61-ed0d2c6ed41a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>_ab2z</value>
-      <webElementGuid>df82717d-1ea1-4479-9c8e-33a105835205</webElementGuid>
+      <webElementGuid>a368936b-1544-4606-9e65-675de253dc34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +42,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Sorry, your password was incorrect. Please double-check your password.</value>
-      <webElementGuid>c82a2a65-d8ac-4eaf-9f47-2547c85ed85d</webElementGuid>
+      <webElementGuid>3d4441e6-ce4d-48b2-ba91-8ededab31488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;loginForm&quot;)/span[@class=&quot;x1lliihq x1plvlek xryxfnj x1n2onr6 x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1i0vuye xvs91rp xo1l8bm x5n08af x1tu3fi x3x7a5m x10wh9bi x1wdrske x8viiok x18hxmgj&quot;]/div[@class=&quot;_ab2z&quot;]</value>
-      <webElementGuid>115571bb-9c97-4298-8ec6-ab01c8417b4e</webElementGuid>
+      <webElementGuid>01ea0b55-3b69-478f-baff-a8c9e0f2ea3c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='loginForm']/span/div</value>
-      <webElementGuid>0b853036-9d14-4150-8108-b02872dd69e2</webElementGuid>
+      <webElementGuid>573888dc-1b9b-44b6-84a1-5c187350eaea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in with Facebook'])[1]/following::div[1]</value>
-      <webElementGuid>bdd40ad3-372d-4b69-a152-1b65cfd75926</webElementGuid>
+      <webElementGuid>e0430b1b-51cb-4e1a-9bbc-efaa5fce1eae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::div[3]</value>
-      <webElementGuid>b1a47bdd-6d91-4790-9662-43d415e81035</webElementGuid>
+      <webElementGuid>6da4e3f8-b45d-4707-9103-3edc55277089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/preceding::div[1]</value>
-      <webElementGuid>95a11e1b-6557-40eb-a465-c0597ea985c5</webElementGuid>
+      <webElementGuid>ef197771-d8c8-4518-9db4-4d8864210361</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::div[1]</value>
-      <webElementGuid>161a9a5f-a2ce-4cd6-8235-72618670e617</webElementGuid>
+      <webElementGuid>0feba13a-8b26-4296-af52-26ba7d31b30c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sorry, your password was incorrect. Please double-check your password.']/parent::*</value>
-      <webElementGuid>ee38eabb-9e78-4692-9f50-41880c8ca668</webElementGuid>
+      <webElementGuid>01432c22-dfad-4e8b-8eef-161c0532e5bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/div</value>
-      <webElementGuid>3079ee0f-e245-4fba-be6b-2bd0d0fd290d</webElementGuid>
+      <webElementGuid>a71c91e9-b725-4813-ae35-123e383543d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Sorry, your password was incorrect. Please double-check your password.' or . = 'Sorry, your password was incorrect. Please double-check your password.')]</value>
-      <webElementGuid>f67a1926-e4ca-4268-a9f2-ecd82fa89937</webElementGuid>
+      <webElementGuid>b8eb053d-357a-44dd-8040-2a7a2b4f0034</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
